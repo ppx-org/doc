@@ -2,7 +2,7 @@
 
 #### 技术栈
 * 前端 element plus + vue3 +
-* 后端 jdk16 + Spring Boot 2.5.4 + Spring Security + Spring jdbc + 
+* 后端 jdk16 + Spring Boot 2.5.4 + Spring Security + Spring data jdbc + 
 * 数据库 PostgreSql13
 
 
