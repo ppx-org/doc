@@ -7,8 +7,8 @@ redis用户状态控制jwt,角色登录，改密码等
 * 流通业
 
 
-Home子路由创建时写入
-Showloading
+Home子路由创建时写入Showloading
+或在route.js里用methods写入
 
 
 
